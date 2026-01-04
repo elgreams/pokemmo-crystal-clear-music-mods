@@ -1,5 +1,5 @@
 # pokemmo-crystal-clear-music-mods
-Mods for PokeMMO that adds music from Crystal Clear 
+Mods for PokéMMO that adds music from Crystal Clear 
 
 ### Music Coverage
 Depending on the generation, mods may include:
