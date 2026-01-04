@@ -25,4 +25,3 @@ Some generations may include **only battle themes**.
 
 - Music recreations originate from **Pokémon Crystal Clear**
 - Crystal Clear created by **ShockSlayer**
-- Pokémon and PokéMMO are owned by their respective rights holders\
